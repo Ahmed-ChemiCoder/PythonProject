@@ -1,2 +1,2 @@
-# PythonProject
-A basic desktop calculator application built using Python's tkinter library. It provides a straightforward graphical user interface (GUI) for performing common arithmetic operations.
+# PythonProjects
+I'm a chemist and begenner sharing my python projects
